@@ -6,8 +6,7 @@
     <title>Rekenmachine van Stephan</title>
     <authors>Da Stef</authors>
     <owners>Da Stef</owners>
-    <licenseUrl>https://github.com/stephan1967</licenseUrl>
-    <projectUrl>https://github.com/stephan1967</projectUrl>
+    <projectUrl>https://github.com/stephan1967/Rekenmachine</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Dit is de beste rekenmachine, door Da Stef gemaakt</description>
     <releaseNotes>1.0.0.4  De oer versie van de rekenmachine</releaseNotes>
